@@ -68,6 +68,7 @@
             this.txtResult.Name = "txtResult";
             this.txtResult.Size = new System.Drawing.Size(322, 29);
             this.txtResult.TabIndex = 1;
+            this.txtResult.TextChanged += new System.EventHandler(this.txtResult_TextChanged);
             this.txtResult.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtResult_KeyPress);
             // 
             // btn1

@@ -27,6 +27,7 @@ namespace bt_11
             resultText = "";
             txtResult.Text = "";
             txtResult.Focus();
+            btnEqual.Enabled = true;
         }
 
         private void btnBack_Click(object sender, EventArgs e)
@@ -131,13 +132,14 @@ namespace bt_11
             try
             {
                 EvaluateExpression(resultText);
-
+                
                 if(shouldContinue)
                 {
                     resultText += "=";
                     txtResult.Text = resultText + result;
+                    btnEqual.Enabled = false;
                 }
-                resultText = "";
+
                 shouldContinue = true;
             }
             catch
@@ -179,14 +181,6 @@ namespace bt_11
             // Thực hiện các phép tính theo thứ tự ưu tiên của các toán tử
             for (int i = 0; i < operators.Count; i++)
             {
-                if (operators[i] == '=') 
-                {
-                    MessageBox.Show("Biểu thức đã nhập không đúng cú pháp!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    txtResult.Focus();
-                    shouldContinue = false;
-                    return;
-                }
-
                 if (operators[i] == '*')
                 {
                     operands[i] *= operands[i + 1];
@@ -240,6 +234,16 @@ namespace bt_11
             }
         }
 
-        //Nên enable false phím = sau khi cho ra kết quả 
+        private void txtResult_TextChanged(object sender, EventArgs e)
+        {
+            if (txtResult.Text.Contains("="))
+            {
+                btnEqual.Enabled = false;
+            }
+            else
+            {
+                btnEqual.Enabled = true;
+            }
+        }
     }
 }
