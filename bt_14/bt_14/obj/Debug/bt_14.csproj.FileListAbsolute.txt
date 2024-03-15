@@ -1,0 +1,11 @@
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\bin\Debug\bt_14.exe.config
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\bin\Debug\bt_14.exe
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\bin\Debug\bt_14.pdb
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\obj\Debug\bt_14.csproj.AssemblyReference.cache
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\obj\Debug\bt_14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\obj\Debug\bt_14.Form1.resources
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\obj\Debug\bt_14.Properties.Resources.resources
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\obj\Debug\bt_14.csproj.GenerateResource.cache
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\obj\Debug\bt_14.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\obj\Debug\bt_14.exe
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_14\bt_14\obj\Debug\bt_14.pdb

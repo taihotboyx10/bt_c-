@@ -1,0 +1,8 @@
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_17\bt_17\bin\Debug\bt_17.exe.config
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_17\bt_17\bin\Debug\bt_17.exe
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_17\bt_17\bin\Debug\bt_17.pdb
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_17\bt_17\obj\Debug\bt_17.csproj.AssemblyReference.cache
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_17\bt_17\obj\Debug\bt_17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_17\bt_17\obj\Debug\bt_17.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_17\bt_17\obj\Debug\bt_17.exe
+C:\Users\Nguyen Du Tai\source\repos\bai_tap_c#\bt_17\bt_17\obj\Debug\bt_17.pdb
